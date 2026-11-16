@@ -1,0 +1,8 @@
+{
+    "name": "labradorqa/qa-cvss-un-001",
+    "description": "IVAS QA seed",
+    "type": "project",
+    "require": {
+        "symfony/process": "3.4.47"
+    }
+}
